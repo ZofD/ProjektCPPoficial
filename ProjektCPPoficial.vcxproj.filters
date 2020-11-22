@@ -27,6 +27,606 @@
     <ClInclude Include="ProjektCPPoficial.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\ammintrin.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\apiquery2.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\apiset.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\apisetcconv.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\arm_neon.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\arm64_neon.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\arm64intr.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\armintr.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\bcrypt.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\cderr.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\cguid.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\combaseapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\coml2api.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\commdlg.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\concurrencysal.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\consoleapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\consoleapi2.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\consoleapi3.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_malloc.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_memcpy_s.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_memory.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_search.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_share.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_stdio_config.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wconio.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wctype.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wdirect.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wio.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wprocess.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstdio.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstdlib.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wtime.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\ctype.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\datetimeapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dde.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ddeml.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\debugapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dlgs.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dpapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\driverspecs.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\emmintrin.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\enclaveapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\errhandlingapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\errno.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\excpt.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fibersapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\fileapifromapp.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\guiddef.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\handleapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\heapapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ime_cmodes.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\imm.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\immintrin.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\inaddr.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\interlockedapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\intrin.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\intrin0.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ioapiset.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\jobapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\jobapi2.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\joystickapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\kernelspecs.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\ktmtypes.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\libloaderapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\limits.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\lzexpand.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\malloc.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\mbstring.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\mciapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\mcx.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\memory.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\memoryapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\minwinbase.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\mm3dnow.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\mmeapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\mmintrin.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\mmiscapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\mmiscapi2.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\mmsyscom.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\mmsystem.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\msxml.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\namedpipeapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\namespaceapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\nb30.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ncrypt.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\nmmintrin.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\no_sal2.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\OAIdl.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\objbase.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ObjIdl.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ObjIdlbase.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\ole.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\Ole2.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\OleAuto.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\oleidl.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\playsoundapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\pmmintrin.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\poppack.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processenv.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processthreadsapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\processtopologyapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\profileapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\PropIdl.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\PropIdlBase.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\prsht.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack1.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack2.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack4.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\pshpack8.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\realtimeapiset.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\reason.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpc.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcasync.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcdce.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcdcep.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcndr.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\rpcnsi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\rpcnsip.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcnterr.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\rpcsal.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\sal.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\SCardErr.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sdkddkver.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sdv_driverspecs.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\securityappcontainer.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\securitybaseapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\servprov.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\setjmp.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\setjmpex.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\shellapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\smmintrin.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\CodeAnalysis\sourceannotations.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\specstrings.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\specstrings_strict.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\specstrings_undef.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\sys\stat.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\stdarg.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stddef.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\stdint.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\stralign.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\stringapiset.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\synchapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\systemtopologyapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\tchar.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoolapiset.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\threadpoollegacyapiset.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\timeapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\timezoneapi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\tmmintrin.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\tvout.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\sys\types.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\Unknwn.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\Unknwnbase.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\urlmon.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\utilapiset.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vadefs.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\vcruntime_string.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\verrsrc.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\wchar.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winapifamily.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinBase.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wincon.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wincontypes.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wincrypt.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\windef.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\Windows.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winefs.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wingdi.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winioctl.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnetwk.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinNls.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winpackagefamily.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winperf.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winreg.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winresrc.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winscard.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winsmcrd.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winspool.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsvc.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\WinUser.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winver.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\wmmintrin.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wnnc.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wow64apiset.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\wtypes.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\WTypesbase.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xmmintrin.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\zmmintrin.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ProjektCPPoficial.cpp">
@@ -45,5 +645,23 @@
     <Image Include="ProjektCPPoficial.ico">
       <Filter>Pliki zasobów</Filter>
     </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\commctrl.rh" />
+    <None Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\commdlg.inl">
+      <Filter>Pliki nagłówkowe</Filter>
+    </None>
+    <None Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dde.rh" />
+    <None Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\prsht.inl">
+      <Filter>Pliki nagłówkowe</Filter>
+    </None>
+    <None Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winbase.inl">
+      <Filter>Pliki nagłówkowe</Filter>
+    </None>
+    <None Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winnt.rh" />
+    <None Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.inl">
+      <Filter>Pliki nagłówkowe</Filter>
+    </None>
+    <None Include="C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winuser.rh" />
   </ItemGroup>
 </Project>
